@@ -3,8 +3,7 @@
 This is my personal portfolio website built using HTML and CSS.
 
 ## 🔗 Live Website
-https://abubakar-dev-portfolio.netlify.app/
-
+https://mdabubakar-portfolio.netlify.app/
 ## 📌 Features
 - Responsive design (mobile-friendly)
 - About, Skills, Projects, Education, Contact sections
